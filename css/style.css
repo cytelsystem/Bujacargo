@@ -27,9 +27,13 @@
 
     max-height: 70vh;
     object-fit: cover;  /* acomoda la imagen que se distorsiona con el max-height: ; */
-    filter: grayscale(70%);  /* poner las inmagenes en escala de grises para porner un texto sobres las imagenes */
+    filter: grayscale(70%);  
+    /* poner las inmagenes en escala de grises para porner un texto sobres las imagenes */
     
 }
+
+
+
 
 #carousel {
     position: relative;
@@ -79,6 +83,7 @@
 #footer{
 
     background: linear-gradient(30deg,#1c3643,#273b47 25%,#1e5372);
+    z-index: 15000;
    
     
 }
