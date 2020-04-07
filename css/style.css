@@ -98,3 +98,51 @@
 
 
 }
+
+/* MODALES */
+
+.modal-mision-encabezado {
+
+        background-color: red;
+        border-radius: 10%;
+}
+.modal-mision-pie {
+
+        background-color: red;
+        border-radius: 80%;
+        
+}
+
+#prueba1{
+
+    /* background-color: #7aa232; */
+    height: 50px;
+    width: 400px;
+
+
+    
+}
+#prueba2{
+
+    /* background-color: aqua; */
+    height:50px;
+    width: 400px;
+    
+
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+
+}
+#prueba2 span{
+
+    /* background-color: blueviolet; */
+    width: 100%;
+
+
+
+}
+
