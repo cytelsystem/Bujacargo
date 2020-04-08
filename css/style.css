@@ -101,55 +101,63 @@
 
 /* MODALES */
 
-.modal-mision-encabezado {
+.modal-encabezado {
 
-        background-color: red;
-        border-radius: 10%;
+    background-color: red;
+    border-radius: 10%;
 }
-.modal-mision-pie {
+.modal-pie {
 
-        background-color: red;
-        border-radius: 80%;
-        
-}
-
-#prueba1{
-
-    /* background-color: #7aa232; */
-    height: 50px;
-    width: 400px;
-
-
+    background-color: red;
+    border-radius: 80%;
     
 }
-#prueba2{
 
-    /* background-color: aqua; */
-    height:50px;
-    width: 400px;
+.modal-row{
+    width:100%;
     
-
     
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    
-
 }
-#prueba2 span{
 
-    /* background-color: blueviolet; */
-    width: 100%;
+
+#modal-col1,
+.modal-col1 {
+
+/* background-color: #7aa232; */
+height: 50px;
+width: 400px;
 
 
 
 }
+
+#modal-col2,
+.modal-col2 {
+
+/* background-color: aqua; */
+height:50px;
+width: 400px;
+
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+}
+
+#modal-col2 span,
+.modal-col2 span {
+
+/* background-color: blueviolet; */
+width: 100%;
+
+}
+
 
 #navbarSupportedContent a{
 
-    background-color: #eaf2f424;
-    border-radius: 10px 10px 1px 1px;
-    /* color: #fff; */
+background-color: #eaf2f424;
+border-radius: 10px 10px 1px 1px;
+/* color: #fff; */
 
 }
