@@ -101,6 +101,16 @@
 
 /* MODALES */
 
+.modal-container {
+    padding:0 !important;
+}
+
+.content-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
 .modal-encabezado {
 
     background-color: red;
@@ -114,58 +124,9 @@
     
 }
 
-.modal-row{
-    width:100%;
-   
+.encabezado-texto {
+    margin-bottom: 0 !important;
 }
-
-.modal-col1 {
-
-/* background-color: #7aa232; */
-height: 50px;
-width: 400px;
-
-
-
-}
-
-
-.modal-col2 {
-
-/* background-color: aqua; */
-/* height:50px; */
-/* width: 400px; */
-
-display: flex;
-justify-content: center;
-align-items: center;
-text-align: right;
-
-
-}
-
-
-
-
-.modal-col2 span {
-
-/* background-color: blueviolet; */
-width: 100%;
-
-}
-
-.modal-col3 {
-
-    /* background-color: aqua; */
-    /* height:50px; */
-    /* width: 400px; */
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: right;
-    
-    }
 
 
 #navbarSupportedContent a{
