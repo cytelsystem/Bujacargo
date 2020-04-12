@@ -128,11 +128,20 @@
     margin-bottom: 0 !important;
 }
 
+.modal-body {
+    padding:0px !important;
+}
+
 .i-list-modal {
     color: #29b095;
     font-size: 25px;
     padding: 10px;
 
+}
+
+.ul-list-modal {
+    list-style: none;
+    margin:0;
 }
 
 
