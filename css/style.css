@@ -143,6 +143,14 @@
     list-style: none;
     margin:0;
 }
+.ul-list-modal li {
+    display: flex;
+    
+}
+.ul-list-modal span {
+    padding: 15px 0px 15px 1px;
+    
+}
 
 
 #navbarSupportedContent a{
