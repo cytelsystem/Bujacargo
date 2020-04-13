@@ -17,6 +17,20 @@
     background-color: rgba(52, 58, 64, 0.57)!important;
 }
 
+#navbarSupportedContent a{
+
+    /* background-color: #eaf2f424; */
+    border-radius: 10px 10px 1px 1px;
+    
+    color: #fff;
+    
+    }
+
+.dropdown-menu a {
+    color: black !important;
+
+}
+
 #main {
 
     margin-top: -65px;
@@ -186,10 +200,4 @@
 
 
 
-#navbarSupportedContent a{
 
-background-color: #eaf2f424;
-border-radius: 10px 10px 1px 1px;
-/* color: #fff; */
-
-}
